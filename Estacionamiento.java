@@ -14,11 +14,11 @@ public class Estacionamiento
         
         
     }
-    public void ingresar(int hrE,int minE)
+    public void ingresar(int hrEini,int minini)
     {
         
     }
-    public void salir(int hrS,int minS)
+    public void salir(int hrSini,int minSini)
     {
         
     }
